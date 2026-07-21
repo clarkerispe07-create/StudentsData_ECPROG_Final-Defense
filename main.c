@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "database.h"
+#include "student_registry.h"
 
 int main()
 {
